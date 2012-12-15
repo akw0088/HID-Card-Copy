@@ -1,0 +1,3 @@
+#!/bin/bash
+./decode_iso15693_hid_iClass.php sniffed-iCLASS-authentication.csv > sniffed-iCLASS-authentication.txt
+./decode_iso15693_hid_iClass.php sniffed-iCLASS-authentication-wrong-key.csv > sniffed-iCLASS-authentication-wrong-key.txt

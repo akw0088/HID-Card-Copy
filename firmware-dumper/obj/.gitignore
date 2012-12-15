@@ -1,0 +1,7 @@
+*.o
+*.lst
+*.asm
+*.hex
+*.map
+*.cod
+*.cof

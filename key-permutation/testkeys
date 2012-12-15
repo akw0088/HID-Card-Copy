@@ -1,0 +1,5 @@
+echo 'testing DES key:'
+./permute.php -r 0123456789ABCDEF
+
+echo -e '\ntesting 3DES key:'
+./permute.php -r 00112233445566778899AABBCCDDEEFF
